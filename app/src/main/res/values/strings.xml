@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RadioButton</string>
+    <string name="question">The brain of any computer system is - </string>
+    <string name="option1">CPU</string>
+    <string name="option2">Memory</string>
+    <string name="option3">ALU</string>
+    <string name="option4">GPU</string>
+</resources>
